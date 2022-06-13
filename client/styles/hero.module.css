@@ -1,0 +1,28 @@
+.heroContainer {
+  background-color: white;
+  align-items: center;
+}
+
+.heroWrapper {
+  max-width: 1316px;
+  background-image: url("/static/Article.png");
+  height: 500px;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 65px 0 0 0;
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  max-width: 430px;
+  margin-left: 100px;
+  justify-items: center;
+  padding: 0 20px;
+}
+
+.h6 {
+  font-weight: 500;
+  color: grey;
+}

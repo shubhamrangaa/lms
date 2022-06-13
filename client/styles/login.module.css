@@ -1,0 +1,17 @@
+.formContainer {
+  width: 1500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto0;
+  padding: 5rem 0;
+}
+
+.contentContainer h1 {
+  font-family: Libre Baskerville;
+}
+.contentContainer h4 {
+  font-family: Open Sans;
+  font-weight: lighter;
+}

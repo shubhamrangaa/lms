@@ -1,0 +1,16 @@
+{
+  "navLinks": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "article",
+      "link": "/article"
+    },
+    {
+      "name": "login",
+      "link": "/login"
+    }
+  ]
+}

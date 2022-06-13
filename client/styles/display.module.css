@@ -1,0 +1,20 @@
+.articleContainer {
+  display: flex;
+  justify-content: center;
+  width: 1500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 5rem 1rem;
+}
+.contentContainer {
+  display: flex;
+  max-width: 650px;
+
+  align-items: center;
+}
+
+.imageContainer {
+  width: 1000px;
+}

@@ -1,0 +1,36 @@
+.navContainer {
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  z-index: 99999;
+  height: 65px;
+  align-items: center;
+}
+
+.navItemsWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.25rem;
+  height: 100%;
+  max-width: 1300px;
+  background-color: Black;
+  margin: 0 auto;
+}
+
+.navItem ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  width: 600px;
+  padding: 0;
+  color: wheat;
+}
+
+.buttonLogin {
+  color: wheat;
+  padding: 10px 10px;
+  border-radius: 50px;
+  border-color: white;
+  margin: 0 10px 0 10px;
+}
